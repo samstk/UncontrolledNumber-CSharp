@@ -1,2 +1,2 @@
 # UncontrolledNumber-CSharp
- A big rational implementation for C#
+ A big number (w/ decimal) implementation for C#
