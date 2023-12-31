@@ -1,0 +1,12 @@
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\bin\Debug\net6.0\UncontrolledNumber.deps.json
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\bin\Debug\net6.0\UncontrolledNumber.dll
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\bin\Debug\net6.0\UncontrolledNumber.pdb
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.csproj.AssemblyReference.cache
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.AssemblyInfoInputs.cache
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.AssemblyInfo.cs
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.csproj.CoreCompileInputs.cache
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.dll
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\refint\UncontrolledNumber.dll
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\UncontrolledNumber.pdb
+C:\Users\samst\OneDrive\Documents\0. Projects\UncontrolledNumber-CSharp\UncontrolledNumber\UncontrolledNumber\obj\Debug\net6.0\ref\UncontrolledNumber.dll
